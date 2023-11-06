@@ -1,6 +1,8 @@
 # News
 This Code Gives Heading of News of 6 Category  Using News API 
 
+![News](https://github.com/Unkown-Bug/News/assets/87372653/9c34aa9f-82a5-427a-89be-7c9199534b86)
+
 # Installation
 🔸Speech Recognition
 🔸pyttsx3
