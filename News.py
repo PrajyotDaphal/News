@@ -1,6 +1,6 @@
 import requests
-from features.Listen import Listen
-from features.Speak import Say
+from Listen import Listen
+from Speak import Say
 
 apikey = "b7c98fb3391e484eb7719186558589ff"
 
