@@ -13,7 +13,7 @@ visit : https://newsapi.org/register
 
 ![download](https://github.com/Unkown-Bug/News/assets/87372653/63a4ade0-1f52-4070-b6c5-c72c12e8141b)
 
-# Liscening
+# Liscese
 
 Mozilla Public License Version 2.0
 ==================================
