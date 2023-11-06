@@ -2,7 +2,7 @@ import requests
 from Listen import Listen
 from Speak import Say
 
-apikey = "b7c98fb3391e484eb7719186558589ff"
+apikey = "***PAST YOUR API KEY***"
 
 def business():
       mainurl = "https://newsapi.org/v2/top-headlines?country=in&category=business&apikey=" + str(apikey)
