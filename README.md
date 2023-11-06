@@ -11,7 +11,8 @@ visit : https://newsapi.org/register
 
 # Liscening
 
-
+Mozilla Public License Version 2.0
+==================================
 
 10.4. Distributing Source Code Form that is Incompatible With Secondary
 Licenses
