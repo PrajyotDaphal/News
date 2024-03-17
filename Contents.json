@@ -1,0 +1,15 @@
+{
+    "news_URL": {
+            "technology": "https://newsapi.org/v2/top-headlines?country=in&category=technology&apiKey=_TYPE TOUR API KEY",
+            "general": "https://newsapi.org/v2/top-headlines?country=in&category=general&apiKey=_TYPE TOUR API KEY",
+            "world": "https://newsapi.org/v2/everything?q=world&apiKey=_TYPE TOUR API KEY",
+            "politics": "https://newsapi.org/v2/top-headlines?country=in&category=politics&apiKey=_TYPE TOUR API KEY",
+            "science": "https://newsapi.org/v2/top-headlines?country=in&category=science&apiKey=_TYPE TOUR API KEY",
+            "entertainment": "https://newsapi.org/v2/top-headlines?country=in&category=entertainment&apiKey=_TYPE TOUR API KEY",
+            "business": "https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=_TYPE TOUR API KEY",
+            "sports": "https://newsapi.org/v2/top-headlines?country=in&category=sports&apiKey=_TYPE TOUR API KEY",
+            "health": "https://newsapi.org/v2/top-headlines?country=in&category=health&apiKey=_TYPE TOUR API KEY",
+            "robots" : "https://newsapi.org/v2/everything?q=robot&apiKey=_TYPE TOUR API KEY"
+     "_comment" : "ADD More Topic As You Want q=Topic and also enter your api key
+    }  
+}
