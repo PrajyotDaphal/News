@@ -1,6 +1,7 @@
 import requests
 import json
-from Extention.Speak import speak
+from Speak import speak
+from Listen import listen
 
 def get_urls():
     with open('## Contents.json File Location ##', 'r') as file:
