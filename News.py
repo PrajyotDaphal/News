@@ -1,10 +1,10 @@
 import requests
 import json
-from Speak import speak
-from Listen import listen
+from Extention.Speak import speak
+from Extention.Listen import listen
 
 def get_urls():
-    with open('## Contents.json File Location ##', 'r') as file:
+    with open('Data\\Contents.json', 'r') as file:
         return json.load(file)
 
 def News(category):
